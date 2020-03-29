@@ -1,0 +1,1 @@
+Imagem docker gerada -> https://hub.docker.com/repository/docker/vnicchio/desafio-fullcycle-laravel
